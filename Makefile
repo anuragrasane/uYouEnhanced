@@ -47,7 +47,6 @@ $(TWEAK_NAME)_INJECT_DYLIBS = \
     $(THEOS_OBJ_DIR)/YouSlider.dylib \
     $(THEOS_OBJ_DIR)/YouSpeed.dylib \
     $(THEOS_OBJ_DIR)/YouTimeStamp.dylib \
-    $(THEOS_OBJ_DIR)/YouTubeDislikesReturn.dylib \
     $(THEOS_OBJ_DIR)/DontEatMyContent.dylib \
     $(THEOS_OBJ_DIR)/YTHoldForSpeed.dylib \
     $(THEOS_OBJ_DIR)/YTUHD.dylib \
